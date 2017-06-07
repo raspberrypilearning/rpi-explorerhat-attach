@@ -1,10 +1,10 @@
 title: rpi-explorerhat-attach
 hero_image: images/banner.png
-description: rpi-explorerhat-attach description
+description: Learn how to attach an Explorer HAT to a Raspberry Pi
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 published: false
-ingredient: false
+ingredient: true
 steps:
-  - title: Step one
+  - title: Attach an Explorer HAT

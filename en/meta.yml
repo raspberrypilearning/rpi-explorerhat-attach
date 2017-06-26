@@ -1,0 +1,14 @@
+title: Attach an Explorer HAT 
+hero_image: images/banner.png
+description: Learn how to attach an Explorer HAT to a Raspberry Pi
+original_url:
+theme: cc-prototype
+duration: 1
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+listed: false
+ingredient: true
+interests: ""
+technologies: "explorer hat, raspberry pi"
+steps:
+  - title: Attach an Explorer HAT
